@@ -16,7 +16,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, com experiência no com
 
 ## 💡 Funcionalidades
 
-- Estrutura semântica com HTML5
+- Estrutura semântica com HTML
 - Estilização com CSS puro
 - Layout responsivo para celulares e desktops
 - Navegação por âncoras (scroll para seções)
