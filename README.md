@@ -1,51 +1,70 @@
-# 🌐 Portfólio Pessoal - Wesley Santos
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Wesley Santos - Portfólio</title>
+  <link rel="stylesheet" href="mapa.css">
+</head>
+<body>
+  <header>
+    <h1>Wesley Santos</h1>
+    <p>“Sempre em busca de evolução e aprendizado.”</p>
+    <img src="minha-foto.png" alt="Foto de perfil de Wesley Santos" />
+  </header>
 
-Este projeto é uma landing page pessoal desenvolvida como parte do MAPA da disciplina de Desenvolvimento Web. O objetivo é apresentar meu perfil profissional, habilidades, projetos e links para redes sociais, utilizando apenas **HTML semântico** e **CSS puro**.
+  <nav>
+    <a href="#sobre">Sobre Mim</a>
+    <a href="#habilidades">Habilidades</a>
+    <a href="#projetos">Projetos</a>
+  </nav>
 
-## 🚀 Acesse o site online
+  <main>
+    <section id="sobre">
+      <h2>Sobre Mim</h2>
+      <p>Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, com experiência no comércio e atualmente na área logística, buscando transição para a área de desenvolvimento. Tenho facilidade de aprendizado, sou proativo e focado em resultados.</p>
+    </section>
 
-🔗 [Clique aqui para visualizar minha landing page](https://wesleyspereira.github.io/Perfil-HTML/)
+    <section id="habilidades">
+      <h2>Habilidades</h2>
+      <ul>
+        <li>HTML e CSS</li>
+        <li>Lógica de Programação</li>
+        <li>Noções básicas de Programação em Python</li>
+        <li>Montagem e Manutenção</li>
+        <li>Boa comunicação e trabalho em equipe</li>
+      </ul>
+    </section>
 
----
+    <section id="projetos">
+      <h2>Projetos</h2>
+      <article>
+        <h3>Projeto 1 — Site de Portfólio</h3>
+        <p>Uma landing page pessoal feita com HTML e CSS, mostrando minhas informações profissionais e projetos fictícios.</p>
+      </article>
+      <article>
+        <h3>Projeto 2 — Projetos em Python</h3>
+        <p>Projeto com lógica de programação em Python, desenvolvendo uma calculadora funcional.</p>
+        <p>Projeto em Python: um app que calculava gastos e exportava para uma planilha em Excel, gerando relatórios automaticamente.</p>
+      </article>
+    </section>
 
-## 🧠 Sobre mim
+    <aside>
+      <h2>Curiosidades e Links</h2>
+      <p>Meus hobbies incluem leitura, jogos, tecnologia e música.</p>
+      <p>Redes sociais:</p>
+      <ul>
+        <li><a href="https://github.com/wesleyspereira" target="_blank">GitHub</a></li>
+        <li><a href="https://www.linkedin.com/in/wesley-santos-silva-pereira-115330138" target="_blank">LinkedIn</a></li>
+        <li><a href="https://www.instagram.com/wesley.silva_2012" target="_blank">Instagram</a></li>
+      </ul>
+    </aside>
+  </main>
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, com experiência no comércio e atualmente atuando na área logística. Tenho paixão por tecnologia, facilidade de aprendizado, sou proativo e focado em resultados.
-
----
-
-## 💡 Funcionalidades
-
-- Estrutura semântica com HTML
-- Estilização com CSS puro
-- Layout responsivo para celulares e desktops
-- Navegação por âncoras (scroll para seções)
-- Foto de perfil e links para redes sociais
-
----
-
-## 🛠️ Tecnologias utilizadas
-
-- HTML5
-- CSS3
-
----
-
-## 📁 Estrutura de arquivos
-📦 Perfil-HTML
-├── index.html
-├── mapa.css
-└── minha-foto.png
----
-
-## 🌐 Contato
-
-- 📧 Email: wesleyssp16@gmail.com  
-- 💼 LinkedIn: [Wesley Santos](https://www.linkedin.com/in/wesley-santos-silva-pereira-115330138)  
-- 📸 Instagram: [@wesley.silva_2012](https://www.instagram.com/wesley.silva_2012)  
-- 🖥️ GitHub: [@wesleyspereira](https://github.com/wesleyspereira)
-
----
-
-> © 2025 Wesley Santos — Todos os direitos reservados.
+  <footer>
+    <p>Contato: wesleyssp16@gmail.com</p>
+    <p>&copy; Todos os Direitos reservados 2025 Wesley Santos</p>
+  </footer>
+</body>
+</html>
 
