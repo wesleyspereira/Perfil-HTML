@@ -32,4 +32,20 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, com experiência no com
 ---
 
 ## 📁 Estrutura de arquivos
+📦 Perfil-HTML
+├── index.html
+├── mapa.css
+└── minha-foto.png
+---
+
+## 🌐 Contato
+
+- 📧 Email: wesleyssp16@gmail.com  
+- 💼 LinkedIn: [Wesley Santos](https://www.linkedin.com/in/wesley-santos-silva-pereira-115330138)  
+- 📸 Instagram: [@wesley.silva_2012](https://www.instagram.com/wesley.silva_2012)  
+- 🖥️ GitHub: [@wesleyspereira](https://github.com/wesleyspereira)
+
+---
+
+> © 2025 Wesley Santos — Todos os direitos reservados.
 
